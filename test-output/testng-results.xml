@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53349" started-at="2020-04-02T02:48:21 IST" finished-at="2020-04-02T02:49:14 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53349" started-at="2020-04-02T02:48:21 IST" finished-at="2020-04-02T02:49:14 IST">
+      <class name="com.parameters.Ex2_DataproviderTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.parameters.Ex2_DataproviderTest@50b494a6]" name="beforeTest" is-config="true" duration-ms="13369" started-at="2020-04-02T02:48:21 IST" finished-at="2020-04-02T02:48:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.parameters.Ex2_DataproviderTest@50b494a6]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-04-02T02:48:34 IST" finished-at="2020-04-02T02:48:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openBrowser(java.lang.String, java.lang.String)[pri:0, instance:com.parameters.Ex2_DataproviderTest@50b494a6]" name="openBrowser" duration-ms="14091" started-at="2020-04-02T02:48:34 IST" data-provider="dp2" finished-at="2020-04-02T02:48:48 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajarshi.nandi@accenture.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.parameters.Ex2_DataproviderTest@50b494a6]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-02T02:48:48 IST" finished-at="2020-04-02T02:48:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.parameters.Ex2_DataproviderTest@50b494a6]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-04-02T02:48:48 IST" finished-at="2020-04-02T02:48:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openBrowser(java.lang.String, java.lang.String)[pri:0, instance:com.parameters.Ex2_DataproviderTest@50b494a6]" name="openBrowser" duration-ms="13236" started-at="2020-04-02T02:48:48 IST" data-provider="dp2" finished-at="2020-04-02T02:49:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajarshi.nandi@accenture.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.parameters.Ex2_DataproviderTest@50b494a6]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-02T02:49:01 IST" finished-at="2020-04-02T02:49:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.parameters.Ex2_DataproviderTest@50b494a6]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-04-02T02:49:01 IST" finished-at="2020-04-02T02:49:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="openBrowser(java.lang.String, java.lang.String)[pri:0, instance:com.parameters.Ex2_DataproviderTest@50b494a6]" name="openBrowser" duration-ms="11893" started-at="2020-04-02T02:49:01 IST" data-provider="dp2" finished-at="2020-04-02T02:49:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rajarshi.nandi@accenture.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demo123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.parameters.Ex2_DataproviderTest@50b494a6]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-04-02T02:49:13 IST" finished-at="2020-04-02T02:49:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.parameters.Ex2_DataproviderTest@50b494a6]" name="tearDown" is-config="true" duration-ms="681" started-at="2020-04-02T02:49:13 IST" finished-at="2020-04-02T02:49:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.parameters.Ex2_DataproviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
