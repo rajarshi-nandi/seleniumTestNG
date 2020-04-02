@@ -72,7 +72,7 @@ public class Ex2_DataproviderTest {
 		System.out.println("Entered Password:\t" + password);
 		driver.findElement(By.cssSelector("input.button-1.login-button")).click(); // Click on login button
 		System.out.println("Click Login Button:\tSuccessful");
-		Thread.sleep(6000);
+		Thread.sleep(3000);
 		driver.findElement(By.linkText("Log out")).click(); // Click on logout button
 		System.out.println("Click Logout link:\tSuccessful");
 		Thread.sleep(3000);
@@ -88,7 +88,7 @@ public class Ex2_DataproviderTest {
 		System.out.println("Entered Password:\t" + password);
 		driver.findElement(By.cssSelector("input.button-1.login-button")).click(); // Click on login button
 		System.out.println("Click Login Button:\tSuccessful");
-		Thread.sleep(6000);
+		Thread.sleep(3000);
 		driver.findElement(By.linkText("Log out")).click(); // Click on logout button
 		System.out.println("Click Logout link:\tSuccessful");
 		Thread.sleep(3000);
@@ -104,7 +104,7 @@ public class Ex2_DataproviderTest {
 		System.out.println("Entered Password:\t" + password);
 		driver.findElement(By.cssSelector("input.button-1.login-button")).click(); // Click on login button
 		System.out.println("Click Login Button:\tSuccessful");
-		Thread.sleep(6000);
+		Thread.sleep(3000);
 		driver.findElement(By.linkText("Log out")).click(); // Click on logout button
 		System.out.println("Click Logout link:\tSuccessful");
 		Thread.sleep(3000);
